@@ -1,0 +1,9 @@
+age,gender,income,decision
+25,M,50000,Approved
+30,F,60000,Rejected
+22,F,30000,Rejected
+35,M,80000,Approved
+40,F,90000,Approved
+28,M,70000,Approved
+45,F,40000,Rejected
+50,M,100000,Approved
